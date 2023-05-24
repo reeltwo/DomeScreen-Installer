@@ -1,0 +1,16 @@
+[
+    {
+        "name": "DomeScreenFirmware-23.05.24",
+        "branch": "23.05.24",
+        "description": "### 2023 May 24",
+        "url": "https://github.com/reeltwo/DomeScreenFirmware/releases/download/23.05.24/DomeScreenFirmware.bin",
+        "zipfile": "https://github.com/reeltwo/DomeScreenFirmware4/releases/download/23.05.24/DomeScreenFirmware.zip",
+        "release_details": {
+            "version": "23.05.24",
+            "idf": "v4.3",
+            "platform": "DomeScreen",
+            "branch": "23.05.24"
+        },
+        "manifest_name": "DomeScreenFirmware-23.05.24-manifest.json"
+    }
+]

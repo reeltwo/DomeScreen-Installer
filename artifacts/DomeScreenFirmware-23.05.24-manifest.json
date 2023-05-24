@@ -1,0 +1,22 @@
+{
+    "name": "DomeScreen",
+    "version": "23.05.24",
+    "new_install_prompt_erase": true,
+    "new_install_improv_wait_time": 0,
+    "builds": [
+        {
+            "chipFamily": "ESP32-S3",
+            "parts": [
+                {
+                    "path": "DomeScreenFirmware-5e28026.bin",
+                    "offset": 0
+                },
+                {
+                    "path": "DomeScreenFirmware-5e28026.spiffs.bin",
+                    "offset": 2686976
+                }
+            ]
+        }
+    ],
+    "manifest_name": "DomeScreenFirmware-23.05.24-manifest.json"
+}
